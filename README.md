@@ -2,6 +2,7 @@
 Dashboard built using Google Looker Studio to analyze workforce data and HR metrics.
 
 🔹 Key KPIs
+
 Total Employees
 Working Employees
 Exit Rate
